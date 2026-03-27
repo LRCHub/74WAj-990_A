@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "EXCITE",
   "base_artist": "三浦大知",
-  "createdAt": "2025-12-18T07:47:18.391127Z",
+  "createdAt": "2026-03-27T16:07:54.358924Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -131,6 +131,15 @@
       "artist": "三浦 大知",
       "has_synced": false,
       "path": "select/pl_01_EXCITE_三浦_大知.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "EXCITE",
+      "artist": "三浦大知",
+      "has_synced": true,
+      "path": "select/localdb_01_EXCITE_三浦大知.lrc",
+      "repo_name": "74WAj-990_A"
     }
   ]
 }
